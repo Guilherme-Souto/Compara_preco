@@ -1,0 +1,4 @@
+.venv
+.env
+webscraping/drivers
+*.xlsx
